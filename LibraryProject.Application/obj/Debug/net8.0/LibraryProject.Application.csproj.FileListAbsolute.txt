@@ -1,0 +1,17 @@
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\LibraryProject.Application.csproj.AssemblyReference.cache
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\LibraryProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\LibraryProject.Application.AssemblyInfoInputs.cache
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\LibraryProject.Application.AssemblyInfo.cs
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\LibraryProject.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\LibraryProject\LibraryProject.Application\bin\Debug\net8.0\LibraryProject.Application.deps.json
+C:\Projetos\LibraryProject\LibraryProject.Application\bin\Debug\net8.0\LibraryProject.Application.dll
+C:\Projetos\LibraryProject\LibraryProject.Application\bin\Debug\net8.0\LibraryProject.Application.pdb
+C:\Projetos\LibraryProject\LibraryProject.Application\bin\Debug\net8.0\LibraryProject.Domain.dll
+C:\Projetos\LibraryProject\LibraryProject.Application\bin\Debug\net8.0\LibraryProject.Infrastructure.dll
+C:\Projetos\LibraryProject\LibraryProject.Application\bin\Debug\net8.0\LibraryProject.Domain.pdb
+C:\Projetos\LibraryProject\LibraryProject.Application\bin\Debug\net8.0\LibraryProject.Infrastructure.pdb
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\LibraryP.60901A12.Up2Date
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\LibraryProject.Application.dll
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\refint\LibraryProject.Application.dll
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\LibraryProject.Application.pdb
+C:\Projetos\LibraryProject\LibraryProject.Application\obj\Debug\net8.0\ref\LibraryProject.Application.dll
