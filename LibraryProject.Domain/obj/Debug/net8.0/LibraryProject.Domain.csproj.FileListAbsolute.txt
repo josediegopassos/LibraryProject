@@ -20,3 +20,15 @@ C:\Projetos\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject
 C:\Projetos\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\refint\LibraryProject.Domain.dll
 C:\Projetos\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject.Domain.pdb
 C:\Projetos\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\ref\LibraryProject.Domain.dll
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\bin\Debug\net8.0\LibraryProject.Domain.deps.json
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\bin\Debug\net8.0\LibraryProject.Domain.dll
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\bin\Debug\net8.0\LibraryProject.Domain.pdb
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject.Domain.AssemblyInfo.cs
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject.Domain.sourcelink.json
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject.Domain.dll
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\refint\LibraryProject.Domain.dll
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\LibraryProject.Domain.pdb
+C:\Projetos\Pessoal\LibraryProject\LibraryProject.Domain\obj\Debug\net8.0\ref\LibraryProject.Domain.dll

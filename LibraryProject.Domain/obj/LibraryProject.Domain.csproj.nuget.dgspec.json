@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj": {}
+    "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj": {
+    "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj",
         "projectName": "LibraryProject.Domain",
-        "projectPath": "C:\\Projetos\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj",
+        "projectPath": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj",
         "packagesPath": "C:\\Users\\José Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\LibraryProject\\LibraryProject.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
