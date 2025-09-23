@@ -26,17 +26,17 @@ MongoMappings.RegisterMaps();
 // MongoDB Client e Database
 builder.Services.AddSingleton<IMongoClient>(sp =>
 {
-    var mongoConnection = builder.Configuration.GetConnectionString("MongoConnection");
+    var mongoConnection = builder.Configuration.GetValue<string>("Mongo:ConnectionString");
     return new MongoClient(mongoConnection);
 });
 builder.Services.AddScoped(sp =>
 {
     var client = sp.GetRequiredService<IMongoClient>();
-    var databaseName = builder.Configuration.GetValue<string>("MongoSettings:DatabaseName");
+    var databaseName = builder.Configuration.GetValue<string>("Mongo:Database");
     return client.GetDatabase(databaseName);
 });
 
-// MassTransit + RabbitMQ
+//MassTransit + RabbitMQ
 var rabbitConfig = builder.Configuration.GetSection("RabbitMq");
 builder.Services.AddMassTransit(x =>
 {
@@ -46,7 +46,7 @@ builder.Services.AddMassTransit(x =>
 
     x.UsingRabbitMq((context, cfg) =>
     {
-        cfg.Host(rabbitConfig["Host"], "/", h =>
+        cfg.Host(rabbitConfig["Host"], ushort.Parse(rabbitConfig["Port"]), "/", h =>
         {
             h.Username(rabbitConfig["Username"]);
             h.Password(rabbitConfig["Password"]);
@@ -58,6 +58,50 @@ builder.Services.AddMassTransit(x =>
     });
 });
 builder.Services.AddMassTransitHostedService();
+
+//var rabbitConfig = builder.Configuration.GetSection("RabbitMQ");
+//var host = rabbitConfig["Host"];
+//var port = rabbitConfig["Port"];
+//var username = rabbitConfig["Username"];
+//var password = rabbitConfig["Password"];
+
+//if (string.IsNullOrWhiteSpace(host))
+//    throw new InvalidOperationException("RabbitMQ host is not configured correctly.");
+
+//builder.Services.AddMassTransit(x =>
+//{
+//    // Registrar consumers
+//    x.AddConsumer<BookCreatedConsumer>();
+//    x.AddConsumer<BookLoanedConsumer>();
+//    x.AddConsumer<BookReturnedConsumer>();
+
+//    // Configurar RabbitMQ
+//    x.UsingRabbitMq((context, cfg) =>
+//    {
+//        cfg.Host(host, port, "/", h =>
+//        {
+//            h.Username(username);
+//            h.Password(password);
+//        });
+
+//        cfg.ReceiveEndpoint("book-created-queue", e =>
+//        {
+//            e.ConfigureConsumer<BookCreatedConsumer>(context);
+//        });
+
+//        cfg.ReceiveEndpoint("book-loaned-queue", e =>
+//        {
+//            e.ConfigureConsumer<BookLoanedConsumer>(context);
+//        });
+
+//        cfg.ReceiveEndpoint("book-returned-queue", e =>
+//        {
+//            e.ConfigureConsumer<BookReturnedConsumer>(context);
+//        });
+//    });
+//});
+
+builder.Logging.AddConsole();
 
 // Repositórios SQL
 builder.Services.AddScoped<IBookRepository, BookRepository>();

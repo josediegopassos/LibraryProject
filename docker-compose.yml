@@ -40,7 +40,7 @@ services:
       RABBITMQ_DEFAULT_PASS: guest
     ports:
       - "5672:5672"      # Broker
-      - "15672:15672"    # Management UI
+      - "5673:5673"    # Management UI
     networks:
       - library-net
     volumes:

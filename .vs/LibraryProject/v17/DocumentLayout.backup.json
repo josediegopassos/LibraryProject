@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Pessoal\\LibraryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|c:\\projetos\\pessoal\\libraryproject\\libraryproject.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|solutionrelative:libraryproject.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9CC0F0-F3DE-4D9A-9084-AC5C940DBE46}|LibraryProject.Application\\LibraryProject.Application.csproj|c:\\projetos\\pessoal\\libraryproject\\libraryproject.application\\handlers\\command\\bookcreatedcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9CC0F0-F3DE-4D9A-9084-AC5C940DBE46}|LibraryProject.Application\\LibraryProject.Application.csproj|solutionrelative:libraryproject.application\\handlers\\command\\bookcreatedcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|c:\\projetos\\pessoal\\libraryproject\\libraryproject.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|solutionrelative:libraryproject.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|c:\\projetos\\pessoal\\libraryproject\\libraryproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|solutionrelative:libraryproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533D6CC5-B9DE-4DA2-BD44-08751935CFDF}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|c:\\projetos\\pessoal\\libraryproject\\libraryproject.infrastructure\\entityframework\\librarydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533D6CC5-B9DE-4DA2-BD44-08751935CFDF}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|solutionrelative:libraryproject.infrastructure\\entityframework\\librarydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|c:\\projetos\\pessoal\\libraryproject\\libraryproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|solutionrelative:libraryproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|c:\\projetos\\pessoal\\libraryproject\\libraryproject.api\\libraryproject.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4BEC496C-ACAB-4BD4-A23F-9660207B317D}|LibraryProject.API\\LibraryProject.API.csproj|solutionrelative:libraryproject.api\\libraryproject.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookCreatedCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Application\\Handlers\\Command\\BookCreatedCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryProject.Application\\Handlers\\Command\\BookCreatedCommandHandler.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Application\\Handlers\\Command\\BookCreatedCommandHandler.cs",
+              "RelativeToolTip": "LibraryProject.Application\\Handlers\\Command\\BookCreatedCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T03:45:05.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryProject.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryProject.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T03:44:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Infrastructure\\EntityFramework\\LibraryDbContextFactory.cs",
+              "RelativeDocumentMoniker": "LibraryProject.Infrastructure\\EntityFramework\\LibraryDbContextFactory.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.Infrastructure\\EntityFramework\\LibraryDbContextFactory.cs",
+              "RelativeToolTip": "LibraryProject.Infrastructure\\EntityFramework\\LibraryDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T03:27:57.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LibraryProject.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\appsettings.Development.json",
+              "RelativeToolTip": "LibraryProject.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T03:13:30.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryProject.API\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\appsettings.json",
+              "RelativeToolTip": "LibraryProject.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T03:13:25.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryProject.API",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\LibraryProject.API.csproj",
+              "RelativeDocumentMoniker": "LibraryProject.API\\LibraryProject.API.csproj",
+              "ToolTip": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\LibraryProject.API.csproj",
+              "RelativeToolTip": "LibraryProject.API\\LibraryProject.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T02:28:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryProject.API\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\LibraryProject\\LibraryProject.API\\Program.cs",
+              "RelativeToolTip": "LibraryProject.API\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:44:35.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

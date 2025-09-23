@@ -20,6 +20,12 @@ x86/
 bld/
 [Ll]og/
 
+.idea/
+bin/
+obj/
+
+*.user
+
 # Visual Studio cache/options directory
 .vs/
 .vscode/
